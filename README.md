@@ -8,7 +8,6 @@ This script creates a backup of a specified source directory and saves it to a s
    - Edit the `SOURCE_DIR` and `DEST_DIR` variables in the script to point to the directories you want to back up and where you want to save the backup.
 
 2. **Make the Script Executable:**
-   ```sh
 ```
    chmod +x backup.sh
 ```
