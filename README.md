@@ -13,5 +13,5 @@ This script creates a backup of a specified source directory and saves it to a s
 ```
 3. **Run the Script:**
 ```
-./backup.sh
+   ./backup.sh
 ```
