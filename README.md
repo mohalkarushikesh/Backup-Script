@@ -15,3 +15,7 @@ This script creates a backup of a specified source directory and saves it to a s
 ```
    ./backup.sh
 ```
+4. **To Extrack backup file**
+```
+tar -xzf backup_2025-01-31-17-05-21.tar.gz
+```
